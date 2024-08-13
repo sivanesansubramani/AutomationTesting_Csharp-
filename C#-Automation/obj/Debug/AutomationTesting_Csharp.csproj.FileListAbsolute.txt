@@ -1,0 +1,14 @@
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\AutomationTesting_Csharp.exe.config
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\AutomationTesting_Csharp.exe
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\AutomationTesting_Csharp.pdb
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\WebDriver.dll
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\bin\Debug\WebDriver.xml
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\obj\Debug\AutomationTesting_Csharp.csproj.AssemblyReference.cache
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\obj\Debug\AutomationTesting_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\obj\Debug\AutomationTesting_Csharp.csproj.CopyComplete
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\obj\Debug\AutomationTesting_Csharp.exe
+C:\Users\ALTIUS\source\repos\AutomationTesting_Csharp\obj\Debug\AutomationTesting_Csharp.pdb
